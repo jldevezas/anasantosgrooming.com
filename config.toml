@@ -1,3 +1,108 @@
-baseURL = "http://example.org/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ana Santos - Grooming"
+theme = "creative"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Ana Santos"
+	description = "Dog and Cat Groomer"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Ana Santos Groomer"
+
+		[params.navigation.links]
+			about     = "Sobre"
+			services  = "Locais"
+			portfolio = "Portfólio"
+			contact   = "Contacto"
+
+
+	# Hero section
+	# https://pixabay.com/photos/dog-cat-pets-animals-friends-2606759/
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Cuide do bem-estar e estética do seu animal"
+		subtitle   = "Ana Santos é uma dog groomer com experiência em banhos e tosquias de raça,<br> zelando pelo bem-estar e felicidade do seu animal."
+		buttonText = "Saber mais"
+
+
+	# About section
+	[params.about]
+		headline    = "Grooming de Cães e Gatos"
+		description = "Banhos, tosquias, cortes de raça, manutenção do pêlo, cortes de unhas. <br>O bem-estar do seu animal é a minha prioridade!"
+		buttonText  = "Onde?"
+		buttonLink = "#services"
+
+
+	# Service section
+	[params.services]
+		headline = "Ao seu serviço em..."
+
+        [[params.services.list]]
+            icon = "fa-paw"
+            title = "São João da Madeira"
+            description = "Por marcação na [Zu](https://www.zuonline.pt/sao-joao-madeira) do<br> [8ª Avenida](https://www.8avenida.com/store/zu/) nos seguintes dias: <i>segunda, quinta, sexta e sábado</i>."
+
+        [[params.services.list]]
+            icon = "fa-paw"
+            title = "Porto"
+            description = "Por marcação na [Zu](https://www.zuonline.pt/sao-joao-madeira) do<br> [NorteShopping](https://www.norteshopping.pt/en/store/zu_en/) nos seguintes dias: <i>terça-feira</i>."
+
+		[[params.services.list]]
+            icon = "fa-envelope"
+            title = "Noutros Locais"
+            description = "Caso tenha interesse no serviço de dog grooming numa loja perto de si, [peça mais informações](#contact)."
+
+		[[params.services.list]]
+            icon = "fa-envelope"
+            title = "Na Sua Loja"
+            description = "Se for dono de uma loja de animais e necessitar de serviços de dog grooming, [contacte](#contact)."
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Veja o Portfólio Completo"
+
+		[params.aside.button]
+			text = "Descarregar (acesso em loja apenas)"
+			link = "//anasantosgrooming.com/anasantos-grooming-portfolio.pdf"
+
+	# Contact section
+	[params.contact]
+		headline = "Contacto"
+		description = "Se desejar contratar o serviço de dog grooming para a sua loja, por favor utilize o seguinte contacto. Para marcações em loja, para o seu animal, por favor contacte a [respetiva loja](#services)."
+		#phone = "123-456-6789"
+		email = "mail@anasantosgrooming.com"
+
+	# Google Maps section
+	# [params.location]
+	# 	latitude  = "34.007850"
+	# 	longitude = "-118.499305"
+	# 	maps_api_key = ""
