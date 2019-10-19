@@ -89,12 +89,12 @@ googleAnalytics = ""
         buttonText = "Close"
 
     # Aside section
-	# [params.aside]
-	# 	headline = "Veja o Portfólio Completo"
+	[params.aside]
+		headline = "Veja o Portfólio Completo"
 
-	# 	[params.aside.button]
-	# 		text = "Descarregar (acesso em loja apenas)"
-	# 		link = "//anasantosgrooming.com/anasantos-grooming-portfolio.pdf"
+		[params.aside.button]
+			text = "Descarregar (apenas em loja)"
+			link = "//anasantosgrooming.com/anasantos-grooming-portfolio.pdf"
 
 	# Contact section
 	[params.contact]
