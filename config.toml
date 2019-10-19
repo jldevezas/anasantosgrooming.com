@@ -1,9 +1,9 @@
 # https://www.favicon.cc/?action=icon&file_id=17897
 baseurl = "http://anasantosgrooming.com/"
 languageCode = "pt-PT"
-title = "Ana Santos - Grooming"
+title = "Ana Santos Grooming"
 theme = "creative"
-googleAnalytics = ""
+googleAnalytics = "UA-150460243-1"
 
 [params]
 
@@ -30,7 +30,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Ana Santos Groomer"
+		brand = "Ana Santos Grooming"
 
 		[params.navigation.links]
 			about     = "Sobre"
@@ -89,12 +89,12 @@ googleAnalytics = ""
         buttonText = "Close"
 
     # Aside section
-	[params.aside]
-		headline = "Veja o Portfólio Completo"
+	# [params.aside]
+	# 	headline = "Veja o Portfólio Completo"
 
-		[params.aside.button]
-			text = "Descarregar (apenas em loja)"
-			link = "//anasantosgrooming.com/anasantos-grooming-portfolio.pdf"
+	# 	[params.aside.button]
+	# 		text = "Descarregar (apenas em loja)"
+	# 		link = "//anasantosgrooming.com/anasantos-grooming-portfolio.pdf"
 
 	# Contact section
 	[params.contact]
