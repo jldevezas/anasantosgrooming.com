@@ -34,7 +34,8 @@ googleAnalytics = ""
 		[params.navigation.links]
 			about     = "Sobre"
 			services  = "Locais"
-			portfolio = "Portfólio"
+			portfolio = "Raças"
+			#portfolio = "Portfólio"
 			contact   = "Contacto"
 
 
@@ -43,14 +44,14 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Cuide do bem-estar e estética do seu animal"
-		subtitle   = "Ana Santos é uma dog groomer com experiência em banhos e tosquias de raça,<br> zelando pelo bem-estar e felicidade do seu animal."
+		subtitle   = "Ana Santos é uma dog groomer com experiência em banhos e tosquias de raça, zelando pelo bem-estar e felicidade do seu animal."
 		buttonText = "Saber mais"
 
 
 	# About section
 	[params.about]
 		headline    = "Grooming de Cães e Gatos"
-		description = "Banhos, tosquias, cortes de raça, manutenção do pêlo, cortes de unhas. <br>O bem-estar do seu animal é a minha prioridade!"
+		description = "Banhos, tosquias, cortes de raça, manutenção do pêlo, cortes de unhas. O bem-estar do seu animal é a minha prioridade!"
 		buttonText  = "Onde?"
 		buttonLink = "#services"
 
@@ -71,12 +72,12 @@ googleAnalytics = ""
 
 		[[params.services.list]]
             icon = "fa-envelope"
-            title = "Noutros Locais"
+            title = "Outros Locais"
             description = "Caso tenha interesse no serviço de dog grooming numa loja perto de si, [peça mais informações](#contact)."
 
 		[[params.services.list]]
             icon = "fa-envelope"
-            title = "Na Sua Loja"
+            title = "Parceria"
             description = "Se for dono de uma loja de animais e necessitar de serviços de dog grooming, [contacte](#contact)."
 
     # Portfolio modals
@@ -87,12 +88,12 @@ googleAnalytics = ""
         buttonText = "Close"
 
     # Aside section
-	[params.aside]
-		headline = "Veja o Portfólio Completo"
+	# [params.aside]
+	# 	headline = "Veja o Portfólio Completo"
 
-		[params.aside.button]
-			text = "Descarregar (acesso em loja apenas)"
-			link = "//anasantosgrooming.com/anasantos-grooming-portfolio.pdf"
+	# 	[params.aside.button]
+	# 		text = "Descarregar (acesso em loja apenas)"
+	# 		link = "//anasantosgrooming.com/anasantos-grooming-portfolio.pdf"
 
 	# Contact section
 	[params.contact]
