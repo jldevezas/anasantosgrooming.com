@@ -69,7 +69,7 @@ googleAnalytics = "UA-150460243-1"
         [[params.services.list]]
             icon = "fa-paw"
             title = "Porto"
-            description = "Por marcação na [Zu](https://www.zuonline.pt/sao-joao-madeira) do<br> [NorteShopping](https://www.norteshopping.pt/en/store/zu_en/) nos seguintes dias: <i>terça-feira</i>."
+            description = "Por marcação na [Zu](https://www.zuonline.pt/matosinhos) do<br> [NorteShopping](https://www.norteshopping.pt/en/store/zu_en/) nos seguintes dias: <i>terça-feira</i>."
 
 		[[params.services.list]]
             icon = "fa-envelope"
