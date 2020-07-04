@@ -1,0 +1,14 @@
+# https://pixabay.com/photos/dog-wolfhound-animal-canine-pet-1922129/
+modalID: 3
+title: Rafeiro
+#date: 2019-10-19
+img: 03-mutt.jpg
+portfolio:
+  - before: 03-01-before.jpg
+    after: 03-01-after.jpg
+  - before: 03-02-before.jpg
+    after: 03-02-after.jpg
+#client: Start Bootstrap
+#clientLink: "#"
+category: Dog Grooming
+description: Rafeiro é a denominação dada aos cães ou gatos sem raça definida, SRD (Sem Raça Definida), sendo CRAND (Cachorro de Raça Não Definida) e GRAND (Gato de Raça Não Definida), como são geralmente referenciados em textos veterinários.

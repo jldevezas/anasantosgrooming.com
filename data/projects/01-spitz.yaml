@@ -2,7 +2,10 @@
 modalID: 1
 title: Spitz
 #date: 2019-10-19
-img: 1.jpg
+img: 01-spitz.jpg
+portfolio:
+  - before: 01-01-before.jpg
+    after: 01-01-after.jpg
 #client: Start Bootstrap
 #clientLink: "#"
 category: Dog Grooming

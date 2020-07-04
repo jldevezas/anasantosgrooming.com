@@ -64,12 +64,7 @@ googleAnalytics = "UA-150460243-1"
         [[params.services.list]]
             icon = "fa-paw"
             title = "São João da Madeira"
-            description = "Por marcação na [Zu](https://www.zuonline.pt/sao-joao-madeira) do<br> [8ª Avenida](https://www.8avenida.com/store/zu/) nos seguintes dias: <i>segunda, quinta, sexta e sábado</i>."
-
-        [[params.services.list]]
-            icon = "fa-paw"
-            title = "Porto"
-            description = "Por marcação na [Zu](https://www.zuonline.pt/matosinhos) do<br> [NorteShopping](https://www.norteshopping.pt/en/store/zu_en/) nos seguintes dias: <i>terça-feira</i>."
+            description = "Por marcação na [Zu](https://www.zuonline.pt/) do<br> [8ª Avenida](https://www.8avenida.com/store/zu/) nos seguintes dias: <i>segunda, quinta, sexta e sábado</i>."
 
 		[[params.services.list]]
             icon = "fa-envelope"
@@ -79,7 +74,7 @@ googleAnalytics = "UA-150460243-1"
 		[[params.services.list]]
             icon = "fa-envelope"
             title = "Parceria"
-            description = "Se for dono de uma loja de animais e necessitar de serviços de dog grooming, [contacte](#contact)."
+            description = "Se é dono de uma loja de animais e necessita de serviços de dog grooming, [contacte](#contact)."
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -99,7 +94,7 @@ googleAnalytics = "UA-150460243-1"
 	# Contact section
 	[params.contact]
 		headline = "Contacto"
-		description = "Se desejar contratar o serviço de dog grooming para a sua loja, por favor utilize o seguinte contacto. Para marcações em loja, para o seu animal, por favor contacte a [respetiva loja](#services)."
+		description = "Se deseja contratar o serviço de dog grooming para a sua loja, por favor utilize o seguinte contacto. Para marcações em loja, para o seu animal, por favor contacte a [respetiva loja](#services)."
 		#phone = "123-456-6789"
 		email = "mail@anasantosgrooming.com"
 
