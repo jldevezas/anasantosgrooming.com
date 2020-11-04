@@ -3,6 +3,9 @@ modalID: 2
 title: Yorkshire
 #date: 2019-10-19
 img: 02-yorkshire.jpg
+portfolio:
+  - before: 02-01-before.jpg
+    after: 02-01-after.jpg
 #client: Start Bootstrap
 #clientLink: "#"
 category: Dog Grooming
