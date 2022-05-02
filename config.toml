@@ -3,7 +3,7 @@ baseurl = "http://anasantosgrooming.com/"
 languageCode = "pt-PT"
 title = "Ana Santos Grooming"
 theme = "creative"
-googleAnalytics = "UA-150460243-1"
+googleAnalytics = "G-EVFED8D782"
 
 [params]
 
