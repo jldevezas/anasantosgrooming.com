@@ -5,10 +5,6 @@
     <link>http://anasantosgrooming.com/tags/</link>
     <description>Recent content in Tags on Ana Santos Grooming</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-PT</language>
-    
-	<atom:link href="http://anasantosgrooming.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>pt-PT</language><atom:link href="http://anasantosgrooming.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
