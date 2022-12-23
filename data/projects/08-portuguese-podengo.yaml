@@ -6,6 +6,8 @@ img: 08-portuguese_podengo.jpg
 portfolio:
   - before: 08-01-before.jpg
     after: 08-01-after.jpg
+  - before: 08-02-before.jpg
+    after: 08-02-after.jpg
 #client: Start Bootstrap
 #clientLink: "#"
 category: Dog Grooming

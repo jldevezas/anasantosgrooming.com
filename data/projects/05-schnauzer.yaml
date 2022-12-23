@@ -6,6 +6,8 @@ img: 05-schnauzer.jpg
 portfolio:
   - before: 05-01-before.jpg
     after: 05-01-after.jpg
+  - before: 05-02-before.jpg
+    after: 05-02-after.jpg
 #client: Start Bootstrap
 #clientLink: "#"
 category: Dog Grooming

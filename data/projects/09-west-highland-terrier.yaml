@@ -1,0 +1,12 @@
+# https://pixabay.com/photos/podenco-andaluz-dog-3250367/
+modalID: 10
+title: West Highland White Terrier (Westie)
+#date: 2019-10-19
+img: 10-west_highland_terrier.jpg
+portfolio:
+  - before: 10-01-before.jpg
+    after: 10-01-after.jpg
+#client: Start Bootstrap
+#clientLink: "#"
+category: Dog Grooming
+description: "West highland white terrier (em tradução livre: Terrier branco das Terras Altas ocidentais) é uma raça de cães do tipo terrier oriunda do oeste das Terras Altas (Highland) na Escócia. Conhecida pela cor branca, acredita-se que tenha surgido a partir de uma seleção entre cães brancos da raça cairn terrier para caça. É considerada uma raça hipoalergênica."

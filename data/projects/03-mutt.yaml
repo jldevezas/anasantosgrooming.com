@@ -10,6 +10,12 @@ portfolio:
     after: 03-02-after.jpg
   - before: 03-03-before.jpg
     after: 03-03-after.jpg
+  - before: 03-04-before.jpg
+    after: 03-04-after.jpg
+  - before: 03-05-before.jpg
+    after: 03-05-after.jpg
+  - before: 03-06-before.jpg
+    after: 03-06-after.jpg
 #client: Start Bootstrap
 #clientLink: "#"
 category: Dog Grooming

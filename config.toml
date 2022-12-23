@@ -45,7 +45,7 @@ googleAnalytics = "G-EVFED8D782"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Cuide do bem-estar e estética do seu animal"
-		subtitle   = "Ana Santos é uma dog groomer com experiência em banhos e tosquias de raça, zelando pelo bem-estar e felicidade do seu animal."
+		subtitle   = "Ana Santos é uma dog groomer com mais de quatro anos de experiência profissional em banhos e tosquias de raça, a zelar pelo bem-estar e felicidade do seu animal."
 		buttonText = "Saber mais"
 
 
@@ -59,22 +59,22 @@ googleAnalytics = "G-EVFED8D782"
 
 	# Service section
 	[params.services]
-		headline = "Ao seu serviço em..."
+		headline = "Disponível para serviço em..."
 
         [[params.services.list]]
             icon = "fa-paw"
-            title = "São João da Madeira"
-            description = "Por marcação na [Zu](https://www.zuonline.pt/) do<br> [8ª Avenida](https://www.8avenida.com/store/zu/) nos seguintes dias: <i>segunda, quinta, sexta e sábado</i>."
+            title = "Lojas de Animais"
+            description = "Se é dono de uma loja de animais e necessita de serviços de dog grooming, [contacte](#contact)."
+
+		[[params.services.list]]
+            icon = "fa-stethoscope"
+            title = "Clínicas Veterinárias"
+            description = "Serviços de tosquia com máquina, tesoura, stripping, cortes de raça &ndash; equipamento próprio. [Entre em contacto](#contact)!"
 
 		[[params.services.list]]
             icon = "fa-envelope"
             title = "Outros Locais"
-            description = "Caso tenha interesse no serviço de dog grooming numa loja perto de si, [peça mais informações](#contact)."
-
-		[[params.services.list]]
-            icon = "fa-envelope"
-            title = "Parceria"
-            description = "Se é dono de uma loja de animais e necessita de serviços de dog grooming, [contacte](#contact)."
+            description = "Caso tenha interesse em serviços de dog grooming noutro local, [contacte](#contact)."
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -94,7 +94,7 @@ googleAnalytics = "G-EVFED8D782"
 	# Contact section
 	[params.contact]
 		headline = "Contacto"
-		description = "Se deseja contratar o serviço de dog grooming para a sua loja, por favor utilize o seguinte contacto. Para marcações em loja, para o seu animal, por favor contacte a [respetiva loja](#services)."
+		description = "Para marcações para o seu animal, por favor contacte a respetiva loja ou clínica. Ou, se desejar contratar o serviço de dog grooming para a sua loja ou clínica, por favor utilize o seguinte contacto."
 		#phone = "123-456-6789"
 		email = "mail@anasantosgrooming.com"
 
